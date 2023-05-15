@@ -44,7 +44,9 @@
 --------------------------
 ### Deployment
 
-## Resources & Helpful Hints:
+## Resources & Helpful Hints
+- [DevZero](https://www.devzero.io/) used for development
+
 #### **style:** 
 #### **helpful hint:** 
 
