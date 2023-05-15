@@ -2,11 +2,11 @@
 
 [image]
 
-## Description:
+## Description
 **Project Name** is a ***Project Type*** app that allows < project function >.
 - < project technology > was used to ensure ...
 
-## Screen Shots:
+## Screen Shots
 
 ## Technology Stack
 - **Frontend/Client:** React.js, MUI, HTML5, CSS
