@@ -47,6 +47,7 @@
 ## Resources & Helpful Hints
 - [DevZero](https://www.devzero.io/) used for development
 - [React Redux](https://react-redux.js.org/) Option
+- [React Store](https://redux.js.org/api/store) Option
 
 #### **style:** 
 #### **helpful hint:** 
