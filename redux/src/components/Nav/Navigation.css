@@ -3,7 +3,7 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  background-color: #ff2058;
+  background-color:  #000c77;
 }
 
 .main-header nav {
@@ -36,5 +36,5 @@
 .main-header a:hover,
 .main-header a:active,
 .main-header a.active {
-  color: #560061;
+  color: #c3a0eb;
 }

@@ -49,4 +49,5 @@
 
 #### **style:** 
 #### **helpful hint:** 
+- have to reset the github auth() for every new instance of an env. 
 
